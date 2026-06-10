@@ -1,0 +1,72 @@
+[
+  {
+    "ID": "0416b670-8d2a-4f69-9e99-877302cb2c2c",
+    "Type": "Placement",
+    "Message": "Amgen Inc. hiring",
+    "Timestamp": "2026-06-09 23:57:17",
+    "Priority": 3
+  },
+  {
+    "ID": "b3e5c2a5-006b-47a0-8214-6a26461d9b17",
+    "Type": "Placement",
+    "Message": "Eli Lilly and Company hiring",
+    "Timestamp": "2026-06-09 21:25:57",
+    "Priority": 3
+  },
+  {
+    "ID": "57bce6ad-97ae-49d0-96f0-6e4259158bfa",
+    "Type": "Placement",
+    "Message": "Advanced Micro Devices Inc. hiring",
+    "Timestamp": "2026-06-09 19:58:21",
+    "Priority": 3
+  },
+  {
+    "ID": "dc3ddaa5-f7fe-4ce1-8734-a9e6fb36abe0",
+    "Type": "Placement",
+    "Message": "Apple Inc. hiring",
+    "Timestamp": "2026-06-09 16:56:13",
+    "Priority": 3
+  },
+  {
+    "ID": "fdf39cbe-c9df-45ea-a6f4-3dd865ccbaac",
+    "Type": "Placement",
+    "Message": "Marriott International Inc. hiring",
+    "Timestamp": "2026-06-09 16:26:45",
+    "Priority": 3
+  },
+  {
+    "ID": "48aff0b2-618e-4c28-a517-5f25d0b3f3be",
+    "Type": "Placement",
+    "Message": "Amgen Inc. hiring",
+    "Timestamp": "2026-06-09 15:57:33",
+    "Priority": 3
+  },
+  {
+    "ID": "7140d905-7c9d-4dc9-9f68-8ca76291410c",
+    "Type": "Placement",
+    "Message": "CSX Corporation hiring",
+    "Timestamp": "2026-06-09 09:24:37",
+    "Priority": 3
+  },
+  {
+    "ID": "82f8cc15-a186-4987-b381-627c08970e0e",
+    "Type": "Placement",
+    "Message": "CSX Corporation hiring",
+    "Timestamp": "2026-06-09 08:58:05",
+    "Priority": 3
+  },
+  {
+    "ID": "c4bd4928-de0b-4989-8f9b-91f977290643",
+    "Type": "Placement",
+    "Message": "Broadcom Inc. hiring",
+    "Timestamp": "2026-06-09 07:24:05",
+    "Priority": 3
+  },
+  {
+    "ID": "d1324d44-36d8-4f16-a49f-7e46b49900d1",
+    "Type": "Result",
+    "Message": "end-sem",
+    "Timestamp": "2026-06-09 23:25:09",
+    "Priority": 2
+  }
+]
